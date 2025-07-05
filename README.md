@@ -8,7 +8,7 @@ Atuo principalmente no desenvolvimento de aplicações em **.NET** (C#, ASP.NET,
 
 Tenho um forte compromisso com a **qualidade, organização e clareza no desenvolvimento**. Acredito que todo projeto deve ser **bem estruturado desde o início**, com atenção à **arquitetura, padronização e documentação técnica**. Sou do time que valoriza e atua em cada detalhe: gosto de tudo **bem desenhado, documentado e planejado**. 
 
-Atualmente, sigo em constante evolução e explorando novas tecnologias como **TypeScript, Automação com IA, bancos de dados não relacionais como o Supabase**, entre outras tendências do ecossistema de desenvolvimento. 🚀
+Atualmente, sigo em constante evolução e explorando novas tecnologias como **TypeScript, Automação com IA, bancos de dados não relacionais**, entre outras tendências do ecossistema de desenvolvimento. 🚀
 
 <!--
 ## Hi there 👋
