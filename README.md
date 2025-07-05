@@ -6,9 +6,9 @@ Sou apaixonada por programação e gosto de criar aplicações que resolvam prob
 
 Atuo principalmente no desenvolvimento de aplicações em **.NET** (C#, ASP.NET, ASP.NET MVC), além de trabalhar com **bancos de dados relacionais** como SQL Server, PostgreSQL, Oracle e MySQL, com **foco em modelagem de dados, criação de rotinas e otimização de performance**.
 
-Tenho um forte compromisso com a **qualidade, organização e clareza no desenvolvimento**. Acredito que todo projeto deve ser **bem estruturado desde o início**, com atenção à **arquitetura, padronização e documentação técnica**. Sou do time que valoriza cada detalhe: gosto de tudo **bem desenhado, documentado e planejado**.
+Tenho um forte compromisso com a **qualidade, organização e clareza no desenvolvimento**. Acredito que todo projeto deve ser **bem estruturado desde o início**, com atenção à **arquitetura, padronização e documentação técnica**. Sou do time que valoriza e atua em cada detalhe: gosto de tudo **bem desenhado, documentado e planejado**. 
 
-Atualmente, sigo em constante evolução e explorando novas tecnologias como **TypeScript, Automação com IA**, bancos de dados não relacionais como o **Supabase**, entre outras tendências do ecossistema de desenvolvimento. 🚀
+Atualmente, sigo em constante evolução e explorando novas tecnologias como **TypeScript, Automação com IA, bancos de dados não relacionais como o Supabase**, entre outras tendências do ecossistema de desenvolvimento. 🚀
 
 <!--
 ## Hi there 👋
