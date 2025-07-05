@@ -68,32 +68,21 @@ Atualmente, sigo em constante evolução e explorando novas tecnologias como **T
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30px" /></td>
     <td>Visual Studio</td>
-  </tr>
-  <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" /></td>
     <td>VS Code</td>
-  </tr>
-  <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="30px" /></td>
     <td>Azure DevOps</td>
-  </tr>
-  <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" /></td>
     <td>Git</td>
-  </tr>
-  <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30px" /></td>
     <td>Postman</td>
-  </tr>
-  <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="30px" /></td>
     <td>Insomnia</td>
-  </tr>
-  <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="30px" /></td>
     <td>Swagger</td>
   </tr>
 </table>
+
 
 
 <!--
