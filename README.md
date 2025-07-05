@@ -12,14 +12,6 @@ Tenho um forte compromisso com a **qualidade, organização e clareza no desenvo
 Atualmente, sigo em constante evolução e explorando novas tecnologias como **TypeScript, Automação com IA, Bancos de dados não relacionais**, entre outras tendências do ecossistema de desenvolvimento. 🚀
 
 ## 🔧 Hard Skills 
-Front-end
- HTML5 CSS3 Sass Bootstrap, Razor, JavaScript
-Back-end
-  C#, .NET Core, ASP.NET, ASP.NET MVC, LINQ, Entity Framework, APIs REST, AWS Lambda 
-Banco de Dados
-  SQL Server, MySQL, PostgreSQL, Oracle 
-Business Intelligence: 
-  Power BI 
 
  ### 🖥️ Front-end  
 <table>
@@ -44,17 +36,8 @@ Business Intelligence:
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" /></td>
     <td>C#</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net-core/dot-net-core-original.svg" width="30px" /></td>
-    <td>.NET Core</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30px" /></td>
-    <td>ASP.NET / MVC</td>
-    <td>LINQ</td>
-    <td>Entity Framework</td>
-    <td>APIs REST</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30px" /></td>
-    <td>AWS Lambda</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" /></td>
-    <td>Git</td>
+    <td><img src="https://camo.githubusercontent.com/dd08c9e9961c2a14497b32e94770512af9b4375ccf32117b452acaf94436243a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d6f726967696e616c2d776f72646d61726b2e737667" width="30px" /></td>
+    <td>AWS Lambda</td>   
   </tr>
 </table>
 
@@ -80,6 +63,13 @@ Business Intelligence:
   </tr>
 </table>
 
+### 🔧  DevOps e Ferramentas  
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" /></td>
+    <td>Git</td>
+  </tr>
+</table>
 
 <!--
 ## Hi there 👋
