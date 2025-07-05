@@ -21,39 +21,64 @@ Banco de Dados
 Business Intelligence: 
   Power BI 
 
-  ### Front-end  
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML5 &nbsp;&nbsp;  
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS3 &nbsp;&nbsp;  
-![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg) Sass &nbsp;&nbsp;  
-![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg) Bootstrap &nbsp;&nbsp;  
-![Razor](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg) Razor &nbsp;&nbsp;  
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript  
+ ### 🖥️ Front-end  
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" /></td>
+    <td>HTML5</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" /></td>
+    <td>CSS3</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" /></td>
+    <td>Sass</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px" /></td>
+    <td>Bootstrap</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" /></td>
+    <td>JavaScript</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30px" /></td>
+    <td>Razor</td>
+  </tr>
+</table>
 
----
+### ⚙️ Back-end  
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" /></td>
+    <td>C#</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net-core/dot-net-core-original.svg" width="30px" /></td>
+    <td>.NET Core</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30px" /></td>
+    <td>ASP.NET / MVC</td>
+    <td>LINQ</td>
+    <td>Entity Framework</td>
+    <td>APIs REST</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30px" /></td>
+    <td>AWS Lambda</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" /></td>
+    <td>Git</td>
+  </tr>
+</table>
 
-### Back-end  
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) C# &nbsp;&nbsp;  
-![.NET Core](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net-core/dot-net-core-original.svg) .NET Core &nbsp;&nbsp;  
-![ASP.NET](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg) ASP.NET &nbsp;&nbsp;  
-![ASP.NET MVC](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg) ASP.NET MVC &nbsp;&nbsp;  
-LINQ &nbsp;&nbsp;  
-Entity Framework &nbsp;&nbsp;  
-APIs REST &nbsp;&nbsp;  
-AWS Lambda  
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git  
+### 🗃️ Banco de Dados  
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30px" /></td>
+    <td>SQL Server</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" /></td>
+    <td>MySQL</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" /></td>
+    <td>PostgreSQL</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30px" /></td>
+    <td>Oracle</td>
+  </tr>
+</table>
 
----
-
-### Banco de Dados  
-![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) SQL Server &nbsp;&nbsp;  
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) MySQL &nbsp;&nbsp;  
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) PostgreSQL &nbsp;&nbsp;  
-![Oracle](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg) Oracle  
-
----
-
-### Business Intelligence  
-![Power BI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg) Power BI  
+### 📊 Business Intelligence  
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="30px" /></td>
+    <td>Power BI</td>
+  </tr>
+</table>
 
 
 <!--
